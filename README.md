@@ -1,2 +1,2 @@
 # calc
-Literally just run the hdml and open it in your web browzer. 
+Extract the zip and literally just run the hdml and open it in your web browzer. 
